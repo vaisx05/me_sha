@@ -744,7 +744,7 @@
                   }),
                   (0, a.jsx)("h3", {
                     className: "title",
-                    children: "Cyber Security Enthusias",
+                    children: "Cyber Security Enthusiast",
                   }),
                   (0, a.jsx)("p", {
                     className: "desc",
